@@ -24,13 +24,24 @@ post_date: 2017-02-23 13:49:29
 <p class="p1">Reported to the Sales Director. Developed, managed and streamlined the consultant sales process. Coordinated, wrote, and submitted Request for Proposals (RFPs). Analyzed sales trends and monitored contract spend limits. Documented consultant lifecycle and simplified consultant on-boarding and off-boarding processes. Provided company-wide sales analysis and created monthly sales dashboard. Coordinated with senior leadership to identify and resolve sales barriers by identifying the root cause and reallocating resources to maximize sales opportunities. Collaborated with Resource Management to generate new candidate insight and create recruitment best practices.</p>
 [/event]
 
-[event date="April 2015 - August 2017" title="
-<p class="p1">Senior Product Marketing Manager</p>
-" sub_title="Strong-Bridge Consulting"]
-<p class="p1">Reported to the Sales Director. Developed, managed and streamlined the consultant sales process. Coordinated, wrote, and submitted Request for Proposals (RFPs). Analyzed sales trends and monitored contract spend limits. Documented consultant lifecycle and simplified consultant on-boarding and off-boarding processes. Provided company-wide sales analysis and created monthly sales dashboard. Coordinated with senior leadership to identify and resolve sales barriers by identifying the root cause and reallocating resources to maximize sales opportunities. Collaborated with Resource Management to generate new candidate insight and create recruitment best practices.</p>
+[event date="April 2015 - August 2017" title="Senior Product Marketing Manager" sub_title="LendingRobot"]
+
+Reported directly to the CEO. Designed, monitored, and proactively improved the client journey process for LendingRobot Series, a 506(c)(1)(7) exempt hedge fund.  Discovered and documented user stories for software development, wrote legal documentation, and offering documents and prospectus for said fund. Drove marketing and online advertising campaigns, resulting in a 3x increased client count and revenue growth. Created financial models to track and predict asset values across more than 10 million data entries; performed industry-wide asset analysis; wrote comprehensive industry reports that were published by syndicated media outlets. Lead compliance and product transfer during LendingRobot’s successful acquisition in August 2017.
+
+[/event]
+
+[event date="2012 - 2015" title="Sales Consultant" sub_title="AT&amp;T Mobility"]
+
+Consumer and Small Business sales specialist.  Regionally recognized for outstanding client support. Utilized consultative selling framework to align customer’s needs, values, and objectives with correct solutions. Routinely closed high-value small business deals, including the negotiation and closing of a $0.5M annual contract with Yellow Cab in 2015. Customers served were in the bottom decile of churn and product return levels.
+
 [/event]
 
 [event_group_title icon="graduation-cap" text="EDUCATION"]
+
+[event date="2018" title="SAFe Scrum Master" sub_title="Scaled Agile Development "][/event]
+
+[event date="2017" title="Project Manager Professional (PMP) Certification" sub_title="Project Management Institute (PMI)"][/event]
+
 [event date="2017" title="Masters of Business Administration" sub_title="University of Washington - Foster School of Business"][/event]
 [event date="2007" title="Bachelors of History" sub_title="University of Washington"][/event]
 
