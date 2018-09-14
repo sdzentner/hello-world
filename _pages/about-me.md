@@ -11,6 +11,10 @@ post_date: 2016-08-03 08:01:48
 <!-- wp:image {"id":572,"align":"center","width":465,"height":442} -->
 <figure class="wp-block-image aligncenter is-resized"><img class="wp-image-572 alignleft" src="http://www.stephenzentner.com/wp-content/uploads/2018/09/stephen_headshot_500px.png" alt="" width="465" height="442" /></figure>
 <!-- /wp:image -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p style="text-align: left;">Hi, I'm happy you're here!</p>
 <p style="text-align: left;">I'm happy to chat, but if you're more of the stalker type, follow me on Social Media :) </p>
 <h5 class="center" style="text-align: left;">FOLLOW ME</h5>
