@@ -13,7 +13,6 @@ post_date: 2016-08-03 08:01:48
 <!-- /wp:image -->
 
 <p style="text-align: center;">Hi, I'm happy you're here!</p>
-<p style="text-align: center;"> </p>
-<p style="text-align: center;">I'm happy to chat, but if you're more of the stalker type, check out my social media below :) </p>
+<p style="text-align: center;">I'm happy to chat, but if you're more of the stalker type, follow me on Social Media :) </p>
 <h5 class="center" style="text-align: center;">FOLLOW ME</h5>
 <p style="text-align: center;">[social_icon type="facebook" url="https://www.facebook.com/stephen.zentner"] [social_icon type="twitter" url="https://twitter.com/sdzentner"]  [social_icon type="instagram" url="https://www.instagram.com/stephenzentner/"] </p>
