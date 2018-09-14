@@ -13,12 +13,7 @@ post_date: 2017-02-23 13:49:29
 [timeline]
 [event_group_title icon="bookmark-empty" text="WORK HISTORY"]
 [event current="current" date="April 2018 - Current" title="Program Manager" sub_title="Microsoft (Strong-Bridge Consulting"]
-<p class="p1">Reports to the CSE Communications Director. Leads team of 4 vendors to plan and execute the organization’s communications</p>
-<p class="p1">strategy. Developed an overarching brand strategy for DecodedShow.com and the Microsoft Developer Blog. Guided the</p>
-<p class="p1">expansion of the CSE brand pyramid with Decoded Chats, a new in-production vlog that will fill the content gap between the</p>
-<p class="p1">Decoded Show and the Developer Blog. Worked with outside vendors to develop written &amp; video assets aligned with One</p>
-<p class="p1">Microsoft for outside publication. Currently working to simplify the code story process and leading a site migration and redesign</p>
-<p class="p1">of the Developer Blog.</p>
+<p class="p1">Reports to the CSE Communications Director. Leads team of 4 vendors to plan and execute the organization’s communications strategy. Developed an overarching brand strategy for DecodedShow.com and the Microsoft Developer Blog. Guided the expansion of the CSE brand pyramid with Decoded Chats, a new in-production vlog that will fill the content gap between the Decoded Show and the Developer Blog. Worked with outside vendors to develop written &amp; video assets aligned with One Microsoft for outside publication. Currently working to simplify the code story process and leading a site migration and redesign of the Developer Blog.</p>
 [/event]
 
 [event date="Sept 2017 - May 2018" title="Financial Analyst" sub_title="Crown Bioscience (Strong-Bridge Consulting"]
