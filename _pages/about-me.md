@@ -8,8 +8,8 @@ permalink: http://www.stephenzentner.com/about-me/
 published: true
 post_date: 2016-08-03 08:01:48
 ---
-<!-- wp:image {"id":572,"align":"center","width":321,"height":304} -->
-<figure class="wp-block-image aligncenter is-resized"><img src="http://www.stephenzentner.com/wp-content/uploads/2018/09/stephen_headshot_500px.png" alt="" class="wp-image-572" width="321" height="304"/></figure>
+<!-- wp:image {"id":572,"align":"center","width":465,"height":442} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://www.stephenzentner.com/wp-content/uploads/2018/09/stephen_headshot_500px.png" alt="" class="wp-image-572" width="465" height="442"/></figure>
 <!-- /wp:image -->
 
 <p style="text-align: center;">Hi, I'm happy you're here!</p>
