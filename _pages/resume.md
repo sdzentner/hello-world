@@ -51,6 +51,16 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 
 [/column]
 [column width="5"]
+<h3>LEADERSHIP SERVICES</h3>
+[skill title= "Project Management" percent="70"]
+[skill title="Process Improvement" percent="65"]
+
+[skill title= "Team Management" percent="85"]
+[skill title="Operations Management" percent="80"]
+
+[skill title="Business/Financial Analyst" percent="70"]
+
+[skill title="Sales Analytics and Insights" percent="70"]
 <h3>DEVELOPER SKILLS</h3>
 [skill title="Python" percent="30"]
 [skill title="WordPress" percent="55"]
