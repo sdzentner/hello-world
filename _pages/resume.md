@@ -71,7 +71,7 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 [skill title="Python" percent="30"]
 [skill title="WordPress" percent="55"]
 <h3>DESIGNER SKILLS</h3>
-[skill title="Sketch" percent="40"]
+[skill title="Sketch" percent="35"]
 
 [/column]
 [/row]
