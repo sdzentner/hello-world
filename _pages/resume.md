@@ -20,7 +20,13 @@ post_date: 2017-02-23 13:49:29
 <p class="p1">Reported directly to the Chief Business Officer in an extremely fast-paced environment. Worked with the division heads of sales, finance, marketing, and accounting to create the world-wide budget for sales for FY 2018 and delivered reports that were presented in weekly and quarterly board meetings. Worked in Salesforce on a day-to-day basis to analyze sales patterns, administer Salesforce CRM integration, marketing success metrics, and sales projections. Analyzed budget-to-performance metrics, provided actionable insights on budget control to maximize sales-to-spend efficacy.</p>
 [/event]
 
-[event date="August 2017" title="Sales Operations Manager" sub_title="Strong-Bridge Consulting"]
+[event date="August 2017 - June 2018" title="Sales Operations Manager" sub_title="Strong-Bridge Consulting"]
+<p class="p1">Reported to the Sales Director. Developed, managed and streamlined the consultant sales process. Coordinated, wrote, and submitted Request for Proposals (RFPs). Analyzed sales trends and monitored contract spend limits. Documented consultant lifecycle and simplified consultant on-boarding and off-boarding processes. Provided company-wide sales analysis and created monthly sales dashboard. Coordinated with senior leadership to identify and resolve sales barriers by identifying the root cause and reallocating resources to maximize sales opportunities. Collaborated with Resource Management to generate new candidate insight and create recruitment best practices.</p>
+[/event]
+
+[event date="April 2015 - August 2017" title="
+<p class="p1">Senior Product Marketing Manager</p>
+" sub_title="Strong-Bridge Consulting"]
 <p class="p1">Reported to the Sales Director. Developed, managed and streamlined the consultant sales process. Coordinated, wrote, and submitted Request for Proposals (RFPs). Analyzed sales trends and monitored contract spend limits. Documented consultant lifecycle and simplified consultant on-boarding and off-boarding processes. Provided company-wide sales analysis and created monthly sales dashboard. Coordinated with senior leadership to identify and resolve sales barriers by identifying the root cause and reallocating resources to maximize sales opportunities. Collaborated with Resource Management to generate new candidate insight and create recruitment best practices.</p>
 [/event]
 
