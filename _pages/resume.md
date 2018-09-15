@@ -10,8 +10,6 @@ post_date: 2017-02-23 13:49:29
 ---
 Stephen has a strong track-record of driving and delivering successful projects in ambiguous and complex situations. His management skills include business strategy, project planning, process improvement, discovering actionable data insights, and people management with an emphasis on providing solutions in high-tech industries. He excels in fast-paced start-up like situations, and proactively searches for personal growth opportunities.  He has the right mix of technical and business capabilities that allow him to work across functional groups at virtually all levels of an organization.
 
-[br]
-
 [row]
 [column width="7"]
 [timeline]
