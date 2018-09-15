@@ -38,6 +38,8 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 
 [/event]
 
+[/timeline]
+
 [/column]
 [column width="5"]
 <h3>LEADERSHIP SERVICES</h3>
