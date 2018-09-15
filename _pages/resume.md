@@ -38,20 +38,6 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 
 [/event]
 
-[event_group_title icon="graduation-cap" text="EDUCATION"]
-
-[event date="July 2018" title="SAFe Scrum Master" sub_title="Scaled Agile Development "][/event]
-
-[event date="2017" title="Project Manager Professional (PMP) Certification" sub_title="Project Management Institute (PMI)"] [/event]
-
-[event date="2017" title="Masters of Business Administration" sub_title="University of Washington - Foster School of Business"][/event]
-
-[event date="2007" title="Bachelors of History" sub_title="University of Washington"][/event]
-
-[/timeline]
-
-[button icon="linkedin-squared" text="My LinkedIn Profile" url="https://www.linkedin.com/in/stephen-zentner/"]
-
 [/column]
 [column width="5"]
 <h3>LEADERSHIP SERVICES</h3>
@@ -75,6 +61,20 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 [skill title="WordPress" percent="55"]
 <h3>DESIGNER SKILLS</h3>
 [skill title="Sketch" percent="35"]
+
+[event_group_title icon="graduation-cap" text="EDUCATION"]
+
+[event date="July 2018" title="SAFe Scrum Master" sub_title="Scaled Agile Development "][/event]
+
+[event date="2017" title="Project Manager Professional (PMP) Certification" sub_title="Project Management Institute (PMI)"] [/event]
+
+[event date="2017" title="Masters of Business Administration" sub_title="University of Washington - Foster School of Business"][/event]
+
+[event date="2007" title="Bachelors of History" sub_title="University of Washington"][/event]
+
+[/timeline]
+
+[button icon="linkedin-squared" text="My LinkedIn Profile" url="https://www.linkedin.com/in/stephen-zentner/"]
 
 [/column]
 [/row]
