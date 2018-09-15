@@ -44,7 +44,7 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 
 [event date="2017" title="Project Manager Professional (PMP) Certification" sub_title="Project Management Institute (PMI)"]
 
-[event date="2017" title="Masters of Business Administration" sub_title="University of Washington - Foster School of Business"] [/event]
+[event title="Masters of Business Administration" sub_title="University of Washington - Foster School of Business"] [/event]
 
 [event date="2017" title="Masters of Business Administration" sub_title="University of Washington - Foster School of Business"][/event]
 [event date="2007" title="Bachelors of History" sub_title="University of Washington"][/event]
