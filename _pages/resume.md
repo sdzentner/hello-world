@@ -62,7 +62,7 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 <h3>DESIGNER SKILLS</h3>
 [skill title="Sketch" percent="35"]
 
-[]
+[timeline]
 
 [event_group_title icon="graduation-cap" text="EDUCATION"]
 
