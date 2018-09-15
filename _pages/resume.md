@@ -40,7 +40,7 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 
 [event_group_title icon="graduation-cap" text="EDUCATION"]
 
-[event date="2018" title="SAFe Scrum Master" sub_title="Scaled Agile Development "][/event]
+[event date="July 2018" title="SAFe Scrum Master" sub_title="Scaled Agile Development "][/event]
 
 [event date="2017" title="Project Manager Professional (PMP) Certification" sub_title="Project Management Institute (PMI)"] [/event]
 
