@@ -62,6 +62,8 @@ Consumer and Small Business sales specialist.  Regionally recognized for outsta
 <h3>DESIGNER SKILLS</h3>
 [skill title="Sketch" percent="35"]
 
+[row]
+
 [event_group_title icon="graduation-cap" text="EDUCATION"]
 
 [event date="July 2018" title="SAFe Scrum Master" sub_title="Scaled Agile Development "][/event]
