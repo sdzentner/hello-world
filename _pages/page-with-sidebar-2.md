@@ -1,11 +1,10 @@
 ---
-ID: 650
+ID: 35
 post_title: Page with Sidebar
-author: Stephen
+author: user
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.stephenzentner.com/page-with-sidebar-2/
+permalink: http://13.77.138.65/page-with-sidebar-2/
 published: true
 post_date: 2016-08-02 20:02:27
 ---
