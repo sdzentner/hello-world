@@ -1,11 +1,11 @@
 ---
-ID: 655
+ID: 101
 post_title: Typography
 author: Stephen
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.stephenzentner.com/typography-2/
+  http://www.stephenzentner.com/typography/
 published: true
 post_date: 2016-08-02 20:31:03
 ---

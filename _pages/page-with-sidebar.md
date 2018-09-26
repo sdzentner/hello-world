@@ -1,11 +1,11 @@
 ---
-ID: 650
+ID: 90
 post_title: Page with Sidebar
 author: Stephen
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.stephenzentner.com/page-with-sidebar-2/
+  http://www.stephenzentner.com/page-with-sidebar/
 published: true
 post_date: 2016-08-02 20:02:27
 ---

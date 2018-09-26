@@ -1,11 +1,10 @@
 ---
-ID: 646
+ID: 586
 post_title: About Me
 author: Stephen
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.stephenzentner.com/about-me-2/
+permalink: http://www.stephenzentner.com/about-me/
 published: true
 post_date: 2018-09-14 23:13:14
 ---

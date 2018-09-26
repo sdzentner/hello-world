@@ -1,10 +1,10 @@
 ---
-ID: 648
+ID: 117
 post_title: Contact
 author: Stephen
 post_excerpt: ""
 layout: page
-permalink: http://www.stephenzentner.com/contact-2/
+permalink: http://www.stephenzentner.com/contact/
 published: true
 post_date: 2016-08-03 08:11:40
 ---
