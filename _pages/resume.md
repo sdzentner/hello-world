@@ -1,10 +1,10 @@
 ---
-ID: 400
+ID: 16
 post_title: Resume
-author: Stephen
+author: user
 post_excerpt: ""
 layout: page
-permalink: http://www.stephenzentner.com/resume/
+permalink: http://13.77.138.65/resume/
 published: true
 post_date: 2017-02-23 13:49:29
 ---

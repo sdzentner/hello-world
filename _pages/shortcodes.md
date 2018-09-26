@@ -1,11 +1,10 @@
 ---
-ID: 93
+ID: 19
 post_title: Shortcodes
-author: Stephen
+author: user
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.stephenzentner.com/shortcodes/
+permalink: http://13.77.138.65/shortcodes/
 published: true
 post_date: 2016-08-02 20:08:47
 ---
