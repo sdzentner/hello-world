@@ -4,7 +4,7 @@ post_title: Test!
 author: Stephen
 post_excerpt: ""
 layout: post
-published: draft
+published: true
 ---
 
 <p>Don't post this yet!</p>
