@@ -1,10 +1,10 @@
 ---
-ID: 26
+ID: 694
 post_title: Post Title
-author: user
+author: Stephen
 post_excerpt: ""
 layout: future
-permalink: http://13.77.138.65/?p=26
+permalink: http://www.stephenzentner.com/?p=694
 published: false
 ---
 Post goes here.
