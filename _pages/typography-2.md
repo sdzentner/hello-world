@@ -1,10 +1,11 @@
 ---
-ID: 21
+ID: 655
 post_title: Typography
-author: user
+author: Stephen
 post_excerpt: ""
 layout: page
-permalink: http://13.77.138.65/typography/
+permalink: >
+  http://www.stephenzentner.com/typography-2/
 published: true
 post_date: 2016-08-02 20:31:03
 ---
