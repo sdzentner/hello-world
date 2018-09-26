@@ -3,7 +3,7 @@ ID: 612
 post_title: Test!
 author: Stephen
 post_excerpt: ""
-layout: future
+layout: draft
 published: false
 ---
 
