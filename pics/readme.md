@@ -1,6 +1,6 @@
-#hello!
+# hello!
 
-##This is a Markdown File. The below image is hosted in my Github repo!
+## This is a Markdown File. The below image is hosted in my Github repo!
 
 **note**
 
