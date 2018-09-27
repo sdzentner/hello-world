@@ -6,6 +6,6 @@
 
 *beer was ~~harmed~~ drank in the making of this photo*
 
-[judson]: ../pics/Judson_Beer_Lab.png "Judson in the Beer Lab"
+[judson]: ../Judson_Beer_Lab.png "Judson in the Beer Lab"
 
 ![judson]
